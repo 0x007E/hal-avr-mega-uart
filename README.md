@@ -1,6 +1,6 @@
 [![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/hal-avr-mega-uart) ![Release](https://github.com/0x007e/hal-avr-mega-uart/actions/workflows/release.yml/badge.svg) [![License GPLv3](https://img.shields.io/badge/License-GPLv3-lightgrey)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-# `hal-avr-mega-uart` - AVR ATmega SPI Hardware Abstraction
+# `hal-avr-mega-uart` - AVR ATmega UART Hardware Abstraction
 
 The `hal-avr-mega-uart` is a lightweight `uart` hardware abstraction library for AVR `ATmega16A` microcontrollers. It provides a clean interface for `uart` initialization and communication while hiding direct register-level interaction from higher software layers. The library is intended for projects that want to separate low-level device startup code from application logic and establish a small, reusable system layer for AVR targets.
 
