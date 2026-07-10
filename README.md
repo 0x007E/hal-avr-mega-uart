@@ -112,7 +112,7 @@ int main(void)
 
 | Type       | Link               | Description              |
 |:----------:|:------------------:|:-------------------------|
-| AVR0-Series | [pdf](https://ww1.microchip.com/downloads/en/devicedoc/atmel-8154-8-bit-avr-atmega16a_datasheet.pdf) | ATmega16A datasheet |
+| AVR-Series | [pdf](https://ww1.microchip.com/downloads/en/devicedoc/atmel-8154-8-bit-avr-atmega16a_datasheet.pdf) | ATmega16A datasheet |
 
 ---
 
